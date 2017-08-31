@@ -1,4 +1,4 @@
-#GoLang Todo App Api
+# GoLang Todo Api
 
 Simple Todo List web app.
 
